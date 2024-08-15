@@ -29,7 +29,7 @@ III- Installation
 1. Clonez le dépôt :
 
    **bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/abdelbasirmn/reactJs-todo-list.git
 
 2. Installez les dépendances :
     **bash
